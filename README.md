@@ -59,11 +59,8 @@ enhance the speed of environment setup.
 ## 📜 Certifications
 
 - **[Azure DevOps Expert (AZ-400)](https://learn.microsoft.com/api/credentials/share/en-us/GayathriNaidu-8997/C5CE0EB56E14E53E?sharingId=B3B61FF1D58E6216)**  
-  *Issued by Microsoft*
 -  **[Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/GayathriNaidu-8997/C501DEBAB487125?sharingId=B3B61FF1D58E6216)**  
-  *Issued by Microsoft* 
 - **[Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/GayathriNaidu-8997/324DF2E14F3D4245?sharingId=B3B61FF1D58E6216)**  
-  *Issued by Microsoft*
 
 
 
