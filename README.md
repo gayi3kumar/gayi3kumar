@@ -11,7 +11,7 @@ I'm a ☁️Cloud and ⚙️DevOps Engineer👩‍💻 passionate about creating
   
 🌟 Featured Projects 🌟
 
-1️⃣  Continuous Monitoring and Logging with ELK Stack and Azure                             
+💠 Continuous Monitoring and Logging with ELK Stack and Azure                             
 • Developed a centralized logging solution using the ELK Stack (Elasticsearch, Logstash, and Kibana) 
 on Azure for real-time log aggregation, monitoring, and analysis across multiple applications and 
 services. 
@@ -22,7 +22,7 @@ ensuring rapid detection and resolution of issues.
 • Automated scaling of the ELK Stack using Terraform, enabling dynamic resource allocation based on 
 workload demand. 
 
-2️⃣  Hybrid Cloud Backup Solution Using AWS and Azure                                             
+💠Hybrid Cloud Backup Solution Using AWS and Azure                                             
 Sep 2023 – Dec 2023 
 • Architected a hybrid cloud backup solution leveraging AWS S3 and Azure Blob Storage for 
 redundancy and disaster recovery. 
@@ -33,7 +33,7 @@ costs while maintaining compliance with retention policies.
 • Secured the environment by implementing role-based access controls (RBAC) and encryption in 
 transit and at rest across both cloud providers.
 
-3️⃣  CI/CD Pipeline Implementation for Microservices on Kubernetes                            
+💠 CI/CD Pipeline Implementation for Microservices on Kubernetes                            
 Jan 2024 – Mar 2024 
 • Designed and implemented CI/CD pipelines using Jenkins and Azure DevOps to automate the build, 
 test, and deployment processes for microservices-based applications deployed on Kubernetes clusters. 
@@ -44,7 +44,7 @@ deployments across environments.
 • Integrated monitoring tools such as Prometheus and Grafana to track system health, application 
 performance, and alerts. 
 
-4️⃣  Cloud Infrastructure Automation with Terraform and Azure                                   
+💠 Cloud Infrastructure Automation with Terraform and Azure                                   
 Mar 2024 – May 2024 
 • Automated the provisioning of cloud infrastructure on Microsoft Azure using Terraform, enabling 
 quick and repeatable deployments of scalable, secure environments. 
