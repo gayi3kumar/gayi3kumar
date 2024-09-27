@@ -10,6 +10,7 @@ I'm a ☁️Cloud and ⚙️DevOps Engineer👩‍💻 passionate about creating
 - 🎓**Certifications:** Azure Administrator AZ-104, Azure DevOps Expert AZ-400
   
 🌟 Featured Projects 🌟
+
 1️⃣ Continuous Monitoring and Logging with ELK Stack and Azure                             
 • Developed a centralized logging solution using the ELK Stack (Elasticsearch, Logstash, and Kibana) 
 on Azure for real-time log aggregation, monitoring, and analysis across multiple applications and 
@@ -58,5 +59,5 @@ enhance the speed of environment setup.
 📫 Connect with Me
 - **LinkedIn:** Gayathri Chowdary (https://www.linkedin.com/in/gayathrichowdary/)
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gayi3kumar&show_icons=true&theme=radical)
 
