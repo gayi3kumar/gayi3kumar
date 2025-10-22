@@ -1,75 +1,73 @@
-Hi there 👋 I'm Gayathri Kumar!
+# 👋 Hi there, I’m Gayathri Kumar
 
+I’m a **Data & Visualization Engineering Professional** passionate about transforming raw data into interactive insights that drive business decisions.  
+My focus lies at the intersection of **data engineering, visualization, and automation**, helping teams turn complex information into accessible, action-ready solutions.
 
-I'm a ☁️Cloud and ⚙️DevOps Engineer👩‍💻 passionate about creating scalable and secure cloud solutions.
+---
 
-🔧 Skills 
-- ☁️**Cloud:** Azure, AWS
-- ⚙️ **DevOps:** CI/CD, Automation, IaC (Terraform, Ansible)
-- 💻**Programming:** Python, Bash, SQL
-- 🎓**Certifications:** Azure Administrator AZ-104, Azure DevOps Expert AZ-400
-  
-🌟 Featured Projects 🌟
+## ⚡ What I Do
 
-💠 Continuous Monitoring and Logging with ELK Stack and Azure                             
-• Developed a centralized logging solution using the ELK Stack (Elasticsearch, Logstash, and Kibana) 
-on Azure for real-time log aggregation, monitoring, and analysis across multiple applications and 
-services. 
-• Integrated Azure VMs, databases, and other services to ship logs to Elasticsearch using Logstash, 
-providing comprehensive visibility into system health and performance. 
-• Configured Kibana dashboards to visualize key metrics and implemented alerts for critical log events, 
-ensuring rapid detection and resolution of issues. 
-• Automated scaling of the ELK Stack using Terraform, enabling dynamic resource allocation based on 
-workload demand. 
+- 🧩 **Design & Build Data Pipelines** – turning messy operational and geospatial data into well-modeled, analytics-ready structures using Python, SQL, and cloud-native tools.  
+- 📊 **Develop Insightful Dashboards** – crafting intuitive BI dashboards with Power BI, Sisense, and Tableau that combine visual storytelling with data governance and security.  
+- ☁️ **Leverage the Cloud** – building data and backup architectures across **AWS** and **Azure**, focusing on cost optimization, scalability, and automation.  
+- 🧭 **Integrate Location Intelligence** – combining **GIS** data, shapefiles, and APIs to create dynamic spatial visualizations for fleet monitoring and delivery optimization.  
+- 🔐 **Enable Data Transparency** – embedding metadata management, RBAC, and quality checks to ensure trust and compliance in every dataset.
 
-💠Hybrid Cloud Backup Solution Using AWS and Azure                                             
-Sep 2023 – Dec 2023 
-• Architected a hybrid cloud backup solution leveraging AWS S3 and Azure Blob Storage for 
-redundancy and disaster recovery. 
-• Automated the backup and restore process using Python scripts and AWS Lambda functions to ensure 
-daily snapshots of critical data. 
-• Implemented lifecycle policies to automate the archiving and deletion of old data, reducing storage 
-costs while maintaining compliance with retention policies. 
-• Secured the environment by implementing role-based access controls (RBAC) and encryption in 
-transit and at rest across both cloud providers.
+---
 
-💠 CI/CD Pipeline Implementation for Microservices on Kubernetes                            
-Jan 2024 – Mar 2024 
-• Designed and implemented CI/CD pipelines using Jenkins and Azure DevOps to automate the build, 
-test, and deployment processes for microservices-based applications deployed on Kubernetes clusters. 
-• Configured automated container builds using Docker and deployed them to Azure Kubernetes Service 
-(AKS), ensuring a seamless and scalable container orchestration environment. 
-• Utilized Helm charts to manage Kubernetes application configurations and ensure consistent 
-deployments across environments. 
-• Integrated monitoring tools such as Prometheus and Grafana to track system health, application 
-performance, and alerts. 
+## 🛠️ Tech Toolbox
 
-💠 Cloud Infrastructure Automation with Terraform and Azure                                   
-Mar 2024 – May 2024 
-• Automated the provisioning of cloud infrastructure on Microsoft Azure using Terraform, enabling 
-quick and repeatable deployments of scalable, secure environments. 
-• Developed Infrastructure as Code (IaC) templates for virtual networks, resource groups, storage 
-accounts, and VM instances, optimizing resource allocation and cost efficiency. 
-• Implemented automated monitoring and logging systems using Azure Monitor and Log Analytics, 
-ensuring high availability and proactive issue resolution. 
-• Integrated the infrastructure automation with Jenkins CI/CD pipelines to streamline deployments and 
-enhance the speed of environment setup. 
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Programming** | Python, SQL (PostgreSQL, SSMS), R, C#, JavaScript |
+| **Data & Cloud** | AWS (Glue, Redshift, S3), Azure (Data Factory, Blob, DevOps), Spark |
+| **Visualization** | Power BI, Sisense (Elasticubes, Blox), Tableau, QuickSight |
+| **Automation** | GitHub Actions, Azure DevOps, Terraform, PowerShell |
+| **Governance** | Collibra, Lineage Mapping, Data Quality Automation |
+| **Geo Analytics** | GeoJSON, Spatial SQL, ArcGIS Maps, Coordinate Mapping |
 
+---
 
-## 📜 Certifications
+## 🌍 Featured Work
 
-- **[Azure DevOps Expert (AZ-400)](https://learn.microsoft.com/api/credentials/share/en-us/GayathriNaidu-8997/C5CE0EB56E14E53E?sharingId=B3B61FF1D58E6216)**  
--  **[Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/GayathriNaidu-8997/C501DEBAB487125?sharingId=B3B61FF1D58E6216)**  
-- **[Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/GayathriNaidu-8997/324DF2E14F3D4245?sharingId=B3B61FF1D58E6216)**  
+### 🧭 Fleet Intelligence Dashboards
+**Tools:** Sisense, Power BI, React.js, PostgreSQL  
+Developed interactive dashboards combining GPS and operational data to track route performance, optimize delivery zones, and identify inefficiencies. Introduced live map layers using GeoJSON and custom widgets for real-time monitoring.
 
+---
 
+### ☁️ Hybrid Cloud Backup & Retention System  
+**Tools:** Azure Data Factory, AWS S3, Python  
+Built an automated data retention workflow between Azure and AWS that performed daily snapshots, lifecycle management, and secure data transfers with RBAC and encryption controls.
 
-📫 Connect with Me
-- **LinkedIn:** Gayathri Chowdary (https://www.linkedin.com/in/gayathrichowdary/)
+---
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gayi3kumar&show_icons=true&theme=radical)
+### 🔄 CI/CD Automation for Data Workflows  
+**Tools:** Azure DevOps, Databricks, Helm  
+Implemented multi-environment CI/CD pipelines for Azure Data Factory and Databricks notebooks, integrating infrastructure-as-code for reproducible, fast, and governed deployments.
 
+---
 
+### 📈 Data Engineering for Operational Insights  
+**Tools:** AWS Glue, Redshift, Power BI, Tableau  
+Automated data processing pipelines and built KPI dashboards that reduced reporting latency, improved SLA visibility, and supported predictive analytics for key business operations.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gayathrichowdary)
+---
 
+## 🎓 Background
+
+🎓 **M.S. in Computer Science** – *Auburn University at Montgomery (2023–2024)*  
+🎖️ **Certifications:**  
+- Microsoft Certified: Azure Administrator (AZ-104)  
+- Microsoft Certified: DevOps Expert (AZ-400)  
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+
+---
+
+## 🤝 Let’s Connect
+
+💼 **LinkedIn:** [linkedin.com/in/gayi3kumar](https://linkedin.com/in/gayi3kumar)  
+
+---
+
+✨ _I love connecting technology, data, and design to make analytics simple, intelligent, and impactful._
