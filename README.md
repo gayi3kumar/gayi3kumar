@@ -66,7 +66,7 @@ Automated data processing pipelines and built KPI dashboards that reduced report
 
 ## 🤝 Let’s Connect
 
-💼 **LinkedIn:** [linkedin.com/in/gayi3kumar](https://linkedin.com/in/gayi3kumar)  
+💼 **LinkedIn:** [linkedin.com/in/gayathrikchowdary](https://www.linkedin.com/in/gayathrikchowdary/)  
 
 ---
 
